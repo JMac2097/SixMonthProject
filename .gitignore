@@ -1,0 +1,11 @@
+node_modules
+dist
+build
+.env
+*.db
+.DS_Store
+
+web/dist
+server/dist
+server/prisma/dev.db
+
