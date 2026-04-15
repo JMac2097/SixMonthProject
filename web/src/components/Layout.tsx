@@ -8,7 +8,7 @@ export function Layout() {
           <div className="brand">
             <div className="brandMark" aria-hidden="true" />
             <div>
-              <div className="brandTitle">SyncLab</div>
+              <div className="brandTitle">TicketMigration V1</div>
               <div className="brandSubtitle">Trello → GitLab (manual sync)</div>
             </div>
           </div>
